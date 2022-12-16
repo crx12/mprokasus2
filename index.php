@@ -7,6 +7,10 @@
     <title>Kasus 2</title>
 </head>
 <body>
-    
+    <li>INFO</li>
+    <li>INFO</li>
+    <li>INFO</li>
+    <li>INFO</li>
+    <li>INFO</li>
 </body>
 </html>
